@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rglaisner
-- 👀 I’m interested in building simple business apps enabling skill-based organizations
-- 🌱 I’m currently refreshing the basics and iterating on programing know-how 
-- 💞️ I’m looking to collaborate on creating tools to enabe skill-based orgs
+- 👀 I’m interested in building simple business business-oriented apps, and experiment as much as possible on all sort of things.
+- 🌱 I’m currently getting pass the basics and getting serious iterating on programing know-how 
+- 💞️ I’m looking to collaborate on creating mindblowing stuffs. 
 - 📫 How to reach me LI rglaisner
-- ⚡ Fun fact: I'm fun, it's a fact
+- ⚡ Fun fact: I am, it's a fact
 
 <!---
 rglaisner/rglaisner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
