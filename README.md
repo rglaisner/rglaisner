@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rglaisner
-- 👀 I’m interested in building simple business business-oriented apps, and experiment as much as possible on all sort of things.
-- 🌱 I’m getting serious iterating on programing know-how.
-- 💞️ I’m looking to collaborate on creating mindblowing stuffs. 
-- 📫 How to reach me LI rglaisner.
+- 👀 I’m interested in all sort of things.
+- 🌱 I’m getting serious about it.
+- 💞️ I’m looking for stuffs. 
 - ⚡ Fun fact: I am, it's a fact.
 
 <!---
